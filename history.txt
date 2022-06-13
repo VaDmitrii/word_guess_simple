@@ -1,0 +1,3 @@
+dmitrii 40
+kate 30
+dmitrii 0
