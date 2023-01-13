@@ -1,6 +1,9 @@
-# SkyPro_projects_hw6
-This program takes a word from the list in "words.txt" file,
-shuffles letters in the word and asks user to guess the shuffled word.
-After receiving user's answer, this program writes down user's score and name
-to 'history.txt' file.
-Finally it prints out statistics: number of games played and the highest score achieved
+# Word guess game
+
+## Algorithm:
+* take a word from the list in "words.txt" file
+* shuffle letters in the word
+* ask user to guess the shuffled word
+* Receive user's answer
+* If the answer is correct write down user's score and name to 'history.txt' file.
+* Print statistics: number of games played and the highest score achieved
